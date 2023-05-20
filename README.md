@@ -1,4 +1,4 @@
-# Hr_Analysis_Project By HiCouncelor
+# Hr_Analysis_Project
 
 This project used a real-world dataset of the Employee's records to complete this project. This project intends to evaluate the provided dataset, solve business problems on this dataset and mine information insights. 
 
